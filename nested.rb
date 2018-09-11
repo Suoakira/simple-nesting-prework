@@ -135,6 +135,7 @@ def adding_to_dennis
      }
     programmer_hash[:dennis_ritchie][:languages].push("Assembly")
     # used the push method but could have also
+    #  programmer_hash[:dennis_ritchie][:languages] ="C"," "Assembly"Asembly"
     programmer_hash
 
 end
